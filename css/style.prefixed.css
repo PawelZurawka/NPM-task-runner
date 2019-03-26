@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+.test {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+/*# sourceMappingURL=style.prefixed.css.map */
